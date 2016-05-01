@@ -3,6 +3,7 @@
 angular.module('angularjsSeedOpenshiftApp', [
   'angularjsSeedOpenshiftApp.auth',
   'angularjsSeedOpenshiftApp.admin',
+  'angularjsSeedOpenshiftApp.about',
   'angularjsSeedOpenshiftApp.constants',
   'ngCookies',
   'ngResource',
